@@ -4,4 +4,4 @@ Projeto desenvolvido na <b>Next Level Week<b>, onde foi desenvolvido um aplicati
 <br>
 <br>
 
-<img src='../example/assets/images/logo.png'>
+<img src='./example/assets/images/logo.png'>
