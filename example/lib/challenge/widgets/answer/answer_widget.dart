@@ -56,8 +56,8 @@ class AnswerWidget extends StatelessWidget {
                 ),
               ),
               Container(
-                height: 24,
-                width: 24,
+                height: 36,
+                width: 36,
                 decoration: BoxDecoration(
                     color:  isSelected ? _selectedColorRight: AppColors.white,
                     borderRadius: BorderRadius.circular(500),

@@ -6,6 +6,7 @@ import 'package:google_fonts/google_fonts.dart';
 
 class LevelButtonWidget extends StatelessWidget {
   final String label;
+  
   LevelButtonWidget({
     Key? key,
     required this.label,
