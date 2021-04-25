@@ -31,9 +31,9 @@ Possuímos cards distribuídos por temas e o número de questões respondidas e 
 
 |                **SplashScreen de abertura** 😃                |                         Tela Home 🏠                          |                   Tela pergunta correta 🧠                    |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="..\dev_quiz\screenshots\Screenshot_20210425-153254.jpg" style="zoom:25%;" /> | <img src="..\dev_quiz\screenshots\Screenshot_20210425-153300.jpg" style="zoom:25%;" /> | <img src="..\dev_quiz\screenshots\Screenshot_20210424-190508.jpg" style="zoom:25%;" /> |
+| <img src="https://github.com/MatheusOrange211/dev_quiz/blob/main/screenshots/Screenshot_20210425-153254.jpg" style="zoom:25%;" /> | <img src="https://github.com/MatheusOrange211/dev_quiz/blob/main/screenshots/Screenshot_20210425-153300.jpg" style="zoom:25%;" /> | <img src="https://github.com/MatheusOrange211/dev_quiz/blob/main/screenshots/Screenshot_20210424-190508.jpg" style="zoom:25%;" /> |
 |                  **Tela resposta errada** 🚫                  |                    **Tela de Parabéns** 🏅                    |                                                              |
-| <img src="..\dev_quiz\screenshots\Screenshot_20210424-190517.jpg" style="zoom:25%;" /> | <img src="..\dev_quiz\screenshots\Screenshot_20210425-153320.jpg" style="zoom:25%;" /> |                                                              |
+| <img src="https://github.com/MatheusOrange211/dev_quiz/blob/main/screenshots/Screenshot_20210424-190517.jpg" style="zoom:25%;" /> | <img src="https://github.com/MatheusOrange211/dev_quiz/blob/main/screenshots/Screenshot_20210425-153320.jpg" style="zoom:25%;" /> |                                                              |
 
 
 
