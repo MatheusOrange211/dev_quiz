@@ -37,7 +37,8 @@ Possuímos cards distribuídos por temas e o número de questões respondidas e 
 
 
 
-### Funcionalidades a adicionar futuramente:
+# Funcionalidades a adicionar futuramente:
+---
 
 - [ ] Filtro de Perguntas por nível de dificuldade
 
