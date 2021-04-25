@@ -1,4 +1,5 @@
 // criand a splash da tela inicial de abertura do app
+import 'package:DevQuiz/home/home_page.dart';
 import 'package:flutter/material.dart';
 import '../core/app_images.dart';
 import '../core/core.dart';
@@ -6,13 +7,16 @@ import '../core/core.dart';
 class SplashPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
+    Future.delayed(Duration(seconds: 2)).then((_) => Navigator.pushReplacement(
+          context,
+          MaterialPageRoute(builder: (context) => HomePage()),
+        ));
     return Scaffold(
       body: Container(
-        decoration: BoxDecoration(
-          gradient: AppGradients.linear
-        ),
+        decoration: BoxDecoration(gradient: AppGradients.linear),
         child: Center(
-          child:Image.asset(AppImages.logo) ,),
+          child: Image.asset(AppImages.logo),
+        ),
       ),
     );
   }

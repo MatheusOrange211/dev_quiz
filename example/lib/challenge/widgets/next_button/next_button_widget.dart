@@ -12,7 +12,7 @@ class NextButtonWidget extends StatelessWidget {
       {required this.label,
       required this.backgroundColor,
       required this.fontColor,
-      required this.borderColor, 
+      required this.borderColor,
       required this.onTap});
 
   //criando um construtor
@@ -23,7 +23,14 @@ class NextButtonWidget extends StatelessWidget {
         this.label = label,
         this.onTap = onTap;
 
-  NextButtonWidget.white({required String label,  required VoidCallback onTap})
+  NextButtonWidget.purple({required String label, required VoidCallback onTap})
+      : this.backgroundColor = AppColors.purple,
+        this.fontColor = AppColors.white,
+        this.borderColor = AppColors.purple,
+        this.label = label,
+        this.onTap = onTap;
+
+  NextButtonWidget.white({required String label, required VoidCallback onTap})
       : this.backgroundColor = AppColors.white,
         this.fontColor = AppColors.grey,
         this.borderColor = AppColors.border,
@@ -43,7 +50,7 @@ class NextButtonWidget extends StatelessWidget {
               borderRadius: BorderRadius.circular(10),
             )),
             side: MaterialStateProperty.all(BorderSide(
-              color: borderColor, 
+              color: borderColor,
             )),
           ),
           onPressed: onTap,
